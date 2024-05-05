@@ -1,3 +1,5 @@
 Prueba de implementación de GitFlow en un repositorio.
 
 Implementación de una rama Release.
+
+Realización de hotfix en el documento.
